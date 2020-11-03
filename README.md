@@ -15,7 +15,7 @@ Blockchain and Aadhar based Voting App
 
 Clone Project
 ```
-
+git clone https://github.com/vikashsd/satamevtoi.git
 ```
 Install Dependencies
 ```
