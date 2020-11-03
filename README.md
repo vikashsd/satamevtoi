@@ -1,6 +1,5 @@
 # Aadhaar Voting
-Aadhaar Based voting system using blockchain technology
-Project implemented as part of Rajasthan Hackathron
+Blockchain and Aadhar based Voting App
 
 ## Description
 
@@ -111,9 +110,7 @@ ui/js/clist.js line 17
 
 ## Deployment
 
-The Aadhaar based voting system is developed to overcome the flaws of EVM system. So directly EVM will be replaced by touch screen interface having the great
-user interface and high security.
-
+The blockchain voting App has been developed to increase the voting percentage and allow roaming citizens to vote from anywhere who are away from base location.
 ## Authors
 
 * **Vikash singh**
